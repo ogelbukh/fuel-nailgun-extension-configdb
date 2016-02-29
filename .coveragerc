@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = configdb
+omit = configdb/openstack/*
+
+[report]
+ignore_errors = True
